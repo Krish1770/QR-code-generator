@@ -1,7 +1,7 @@
-package com.example.QR.code.generator.Repository.Service;
+package com.example.QR.code.generator.repository.service;
 
 
-import com.example.QR.code.generator.Model.UserDetails;
+import com.example.QR.code.generator.model.UserDetails;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;

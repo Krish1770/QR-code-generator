@@ -1,6 +1,6 @@
-package com.example.QR.code.generator.Repository;
+package com.example.QR.code.generator.repository;
 
-import com.example.QR.code.generator.Model.UserDetails;
+import com.example.QR.code.generator.model.UserDetails;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

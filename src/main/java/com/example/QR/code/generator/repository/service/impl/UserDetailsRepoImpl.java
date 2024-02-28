@@ -1,9 +1,9 @@
-package com.example.QR.code.generator.Repository.Service.Impl;
+package com.example.QR.code.generator.repository.service.impl;
 
 
-import com.example.QR.code.generator.Model.UserDetails;
-import com.example.QR.code.generator.Repository.Service.UserDetailsRepoService;
-import com.example.QR.code.generator.Repository.UserDetailsRepo;
+import com.example.QR.code.generator.model.UserDetails;
+import com.example.QR.code.generator.repository.service.UserDetailsRepoService;
+import com.example.QR.code.generator.repository.UserDetailsRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Lazy;
 import org.springframework.stereotype.Service;

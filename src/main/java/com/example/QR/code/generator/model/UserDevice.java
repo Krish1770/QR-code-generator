@@ -1,4 +1,4 @@
-package com.example.QR.code.generator.Model;
+package com.example.QR.code.generator.model;
 
 
 import jakarta.persistence.*;

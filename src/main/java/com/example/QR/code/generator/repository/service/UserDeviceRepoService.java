@@ -1,4 +1,4 @@
-package com.example.QR.code.generator.Repository.Service;
+package com.example.QR.code.generator.repository.service;
 
 
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.example.QR.code.generator.Dto;
+package com.example.QR.code.generator.dto;
 
 
 import lombok.AllArgsConstructor;

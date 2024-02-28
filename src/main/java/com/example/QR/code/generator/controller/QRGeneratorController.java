@@ -1,10 +1,10 @@
-package com.example.QR.code.generator.Controller;
+package com.example.QR.code.generator.controller;
 
 
-import com.example.QR.code.generator.Api.QRGenerator;
-import com.example.QR.code.generator.Dto.AcknowledgementDto;
-import com.example.QR.code.generator.Dto.ResponseDto;
-import com.example.QR.code.generator.Service.QRGeneratorService;
+import com.example.QR.code.generator.api.QRGenerator;
+import com.example.QR.code.generator.dto.AcknowledgementDto;
+import com.example.QR.code.generator.dto.ResponseDto;
+import com.example.QR.code.generator.service.QRGeneratorService;
 import com.google.zxing.WriterException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Lazy;
